@@ -33,3 +33,8 @@ npm run build
 ```sh
 npm run lint
 ```
+
+### Project acess web view
+```
+https://aula-pratica-arquitetura-software-frontend.vercel.app/
+```
